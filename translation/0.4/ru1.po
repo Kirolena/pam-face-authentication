@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-25 18:41+0200\n"
+"PO-Revision-Date: 2017-02-26 15:04+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+
+#: aboutDialog#1
+msgid "About the Software \\m/"
+msgstr "Информация о программном обеспечении \\m/"
+
+#: aboutDialog#2
+msgid "Pluggable Authentication Module for your favorite Linux Distro"
+msgstr "Подключаемый модуль идентификации для вашего избранного выпуска Linux."
+
+#: aboutDialog#3
+msgid "About"
+msgstr "Информация"
+
+#: aboutDialog#4
+msgid ""
+"This program allows you to login by Face Authentication.\n"
+"Care has been taken to give you the best User Experience Possible.\n"
+"If you encounter any bugs , report at  "
+msgstr ""
+"Эта программа позволяет вам входить в систему при помощи Идентификации лиц.\n"
+"Мы стремимся обеспечить для вас наилучший опыт пользователя\n"
+"В случае возникновения каких-либо ошибок, сообщите нам"
+
+#: aboutDialog#5
+msgid ""
+"This program was developed during the auspicious Google Summer of Code "
+"program in 2009 and 2008\n"
+msgstr ""
+"Эта программа была разработана в течение подозрительного Лета Google "
+"закодированных программ в 2009 и 2008 годах.\n"
+
+#: aboutDialog#6
+msgid "Authors"
+msgstr "Создатели"
+
+#: aboutDialog#7
+msgid "Thanks To"
+msgstr "Благодарим"
+
+#: aboutDialog#8
+msgid "Translation"
+msgstr "Перевод"
+
+#: aboutDialog#9
+msgid "Artwork"
+msgstr "Графическое оформление"
+
+#: aboutDialog#10
+msgid "OK"
+msgstr "ОК"
+
+#: faceTrainer#1
+msgid "Face Trainer"
+msgstr "Тренер лица"
+
+#: faceTrainer#2
+msgid "Next"
+msgstr "Далее"
+
+#: faceTrainer#3
+msgid "For Your Information"
+msgstr "Для ваших сведений"
+
+#: faceTrainer#4
+msgid "1"
+msgstr "1"
+
+#: faceTrainer#5
+msgid "Exit"
+msgstr "Выход"
+
+#: faceTrainer#7
+msgid "Read the instructions for High Efficiency"
+msgstr "Ознакомьтесь с инструкциями для высокой производительности"
+
+#: faceTrainer#9
+msgid ""
+"To ensure high efficiency please keep proper distance between face and webcam"
+msgstr ""
+"Для обеспечения высокой производительности держитесь на допустимом "
+"расстоянии от камеры"
+
+#: faceTrainer#10
+msgid "Try to sit where there is ample lighting"
+msgstr "Старайтесь находиться там, где достаточно освещения"
+
+#: faceTrainer#11
+msgid "No glass or hat as it might affect the recognition rate"
+msgstr ""
+"Снимите очки или шляпу, поскольку они негативно влияют на коэффициент "
+"распознавания "
+
+#: faceTrainer#12
+msgid "2"
+msgstr "2"
+
+#: faceTrainer#13
+msgid "Capture"
+msgstr "Захват"
+
+#: faceTrainer#14
+msgid "Train Your Face"
+msgstr "Тренируйте своё лицо"
+
+#: faceTrainer#15
+msgid "Back"
+msgstr "Назад"
+
+#: faceTrainer#16
+msgctxt "faceTrainer#16"
+msgid "Advanced Settings"
+msgstr "Дополнительные параметры"
+
+#: faceTrainer#17
+msgid "About this Software !"
+msgstr "Информация об этом программном обеспечении!"
+
+#: faceTrainer#19
+msgid "Delete Selected Item"
+msgstr "Удалить выбранный элемент"
+
+#: faceTrainer#20
+msgid "3"
+msgstr "3"
+
+#: faceTrainer#21
+msgid "Congratulations"
+msgstr "Поздравляем"
+
+#: faceTrainer#22
+msgid "Get ready to be dazzled!"
+msgstr "Подготовьтесь к ослепительному сверканию!"
+
+#: faceTrainer#23
+msgid "Finish"
+msgstr "Завершение"
+
+#: faceTrainer#24
+msgid ""
+"Thank you for using our application, to be a part of this project , visit "
+"http://code.google.com/p/pam-face-authentication/ , we hope to see you "
+"there!\n"
+"\n"
+"\n"
+"regards\n"
+"Developers"
+msgstr ""
+"Благодарим вас за использование нашего приложения! Чтобы стать участником "
+"этого проекта, посетите веб-сайт http://code.google.com/p/pam-face-"
+"authentication/ , мы надеемся вас там увидеть!\n"
+"\n"
+"\n"
+"С наилучшими пожеланиями\n"
+"Разработчики"
+
+#: faceTrainer#25
+msgid "Cancel"
+msgstr "Отменить"
+
+#: faceTrainer#26
+msgid "Please come closer to the camera."
+msgstr "Подойдите к камере поближе."
+
+#: faceTrainer#27
+msgid "Please go little far from the camera."
+msgstr "Отойдите от камеры немного дальше."
+
+#: faceTrainer#28
+msgid "Unable to Detect Your Face."
+msgstr "Не удается найти ваше лицо."
+
+#: faceTrainer#29
+msgid "Tracker lost, trying to reinitialize."
+msgstr "Датчик утерян, выполняется попытка повторной инициализации."
+
+#: faceTrainer#30
+msgid "Tracking in progress."
+msgstr "Ведется отслеживание."
+
+#: faceTrainer#31
+msgid "Captured %1 / %2 faces."
+msgstr "Захвачены лица %1 / %2."
+
+#: faceTrainer#32
+msgid "Capturing Image Finished."
+msgstr "Захват изображения завершился."
+
+#: faceTrainer#33
+msgid "Processing Faces, Please Wait ..."
+msgstr "Идет обработка лиц, пожалуйста, подождите ..."
+
+#: faceTrainer#34
+msgid "Processing Completed."
+msgstr "Обработка завершена."
+
+#: faceTrainer#35
+msgid "<strong>Error</strong>"
+msgstr "<strong>Ошибка</strong>"
+
+#: faceTrainer#36
+msgid "Camera Not Found. <br /> Plugin Your Camera and Try Again."
+msgstr "Камера не найдена. <br /> Подключите свою камеру и попробуйте ещё раз."
+
+#: faceTrainerAdvSettings#1
+msgctxt "faceTrainerAdvSettings#1"
+msgid "Advanced Settings"
+msgstr "Дополнительные параметры"
+
+#: faceTrainerAdvSettings#2
+msgid "Low Security"
+msgstr "Низкий уровень безопасности"
+
+#: faceTrainerAdvSettings#3
+msgid "High Security"
+msgstr "Высокий уровень безопасности"
+
+#: faceTrainerAdvSettings#5
+msgid "Test Recognition"
+msgstr "Проверка распознавания"
+
+#: faceTrainerAdvSettings#6
+msgid "Yes/No"
+msgstr "Да/Нет"
+
+#: faceTrainerAdvSettings#7
+msgid "Test Recognition Result:"
+msgstr "Проверка результатов распознания:"
+
+#: faceTrainerAdvSettings#8
+msgid "Save Config"
+msgstr "Сохранить конфигурацию"
+
+#: faceTrainerAdvSettings#9
+msgid "Defaults"
+msgstr "Значения по умолчанию"
+
+#: faceTrainerAdvSettings#10
+msgid "Medium"
+msgstr "Средний"
+
+#: faceTrainerAdvSettings#11
+msgid "Yes"
+msgstr "Да"
+
+#: faceTrainerAdvSettings#12
+msgid "No"
+msgstr "Нет"

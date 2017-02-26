@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-25 17:10+0200\n"
+"PO-Revision-Date: 2017-02-25 18:35+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+
+#: src/pam_face_authentication.cpp:525
+msgid "Align your face."
+msgstr "Выровняйте своё лицо."
+
+#: src/pam_face_authentication.cpp:454
+msgid ""
+"Biometrics model has not been generated for the user. Use qt-facetrainer to "
+"create the model."
+msgstr ""
+"Биометрическая модель была создана не для пользователя. Используйте "
+"программу qt-facetrainer  для создания модели."
+
+#: src/pam_face_authentication.cpp:559
+msgid "Giving Up Face Authentication. Try Again."
+msgstr "Отмена идентификации лиц. Попробуйте еще раз."
+
+#: src/pam_face_authentication.cpp:538
+msgid "Keep proper distance with the camera."
+msgstr "Держитесь на надлежащем расстоянии от камеры."
+
+#: src/pam_face_authentication.cpp:552
+msgid "Unable query image from your webcam."
+msgstr "Не удается запросить изображение с вашей веб-камеры."
+
+#: src/pam_face_authentication.cpp:434
+msgid "Unable to get hold of your webcam. Please check if it is plugged in."
+msgstr ""
+"Не удается захватить вашу веб-камеру. Пожалуйста, убедитесь, что она "
+"подключена."
+
+#: src/pam_face_authentication.cpp:497
+msgid "Verification Successful."
+msgstr "Проверка прошла успешно."
+
+#: src/pam_face_authentication.cpp:489
+msgid "Verifying Face ..."
+msgstr "Проверка лица..."
